@@ -11,7 +11,7 @@ export default function WeatherDashboard() {
 
   useEffect(() => {
     const loader = new Loader({
-      apiKey: "YOUR_GOOGLE_MAPS_API_KEY",
+      apiKey: "AIzaSyBMYMUD0d_gVXSJHbThDnq5nAh9wXP1rB8",
       version: "weekly",
     });
 
